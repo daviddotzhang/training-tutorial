@@ -165,17 +165,18 @@ Note: We started to use LPS (and in some cases other tickets) as the identifier 
 ###Chapter3: How to create a hotfix to the customer ?
 * First of all, you need to check with the from Patch Portal.
 
-1. 继续排版一下；
-2. 测试吧；
-3. 在修改一下试试；
-4. 第3次提交修改，测试git提交方式；
+1. if the customer has two versions in use, like sp10 and sp15。
+2. if YES, you need to confirm with CSE.
 
 * How to create a branch based on existing tags.
 
-1. 继续排版一下；
-2. 测试吧；
+1. If customer is using DXP, for example fix-pack-de-11. 
+   git checkout -b LPS-XXX fix-pack-de-11.
+2. If customer is using EE62, for example sp15. Now we have sp7,sp10,sp13,sp15.
+   git checkout -b fix-pack-LPP-XXX-sp15 fix-pack-base-6210-sp15.
 
 * How to create a hotfix on Patch Portal.
 
-1. 继续排版一下；
-2. 测试吧；
+1. https://patcher.liferay.com/group/guest/patching
+2. For DXP, the use LPS to create the hotfix, see example LPS-70751
+3. For EE62, the use LPS to create the hotfix, see example LPE-14727

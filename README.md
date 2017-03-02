@@ -1,7 +1,7 @@
 ## This is an internal trainning for arthur ##
-author: david zhang
-date:   2017-3-2
-version: 1
+* [×] author: david zhang
+* [×] date:   2017-3-2
+* [×] version: 1
 
 ### Chapter1: Conceptions ###
 

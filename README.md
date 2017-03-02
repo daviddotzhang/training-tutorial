@@ -1,8 +1,4 @@
 ## This is an internal trainning for arthur ##
-+   author: david zhang
-+   date:   2017-3-2
-+   version: 1
-## This is an internal trainning for arthur ##
 author: david zhang
 date:   2017-3-2
 version: 1

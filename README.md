@@ -15,17 +15,17 @@ Note: We started to use LPS (and in some cases other tickets) as the identifier 
 
 
 * #####  What are the follow repositories for ? #####
-1. https://github.com/liferay/liferay-portal/
-2. https://github.com/liferay/liferay-plugins/
-3. https://github.com/liferay/liferay-portal-ee/
-4. https://github.com/liferay/liferay-plugins-ee/
-5. https://github.com/liferay/com-liferay-journal/
+   1. https://github.com/liferay/liferay-portal/
+   2. https://github.com/liferay/liferay-plugins/
+   3. https://github.com/liferay/liferay-portal-ee/
+   4. https://github.com/liferay/liferay-plugins-ee/
+   5. https://github.com/liferay/com-liferay-journal/
 
 * #####  What are the follow tags for ? #####
-1. fix-pack-base-6012,fix-pack-base-6110,fix-pack-base-6120
-2. fix-pack-base-6130 ,fix-pack-base-6130-sp3, fix-pack-base-6130-sp4
-3. fix-pack-base-6210, fix-pack-base-6210-sp7,fix-pack-base-6210-sp10, fix-pack-base-6210-sp13, fix-pack-base-6210-sp15
-4. fix-pack-base-7010, fix-pack-de-1-7010, fix-pack-de-2-7010, fix-pack-de-3-7010, fix-pack-de-4-7010,  fix-pack-de-5-7010, fix-pack-de-6-7010, fix-pack-de-7-7010, fix-pack-de-8-7010, fix-pack-de-9-7010, fix-pack-de-10-7010, fix-pack-de-11-7010
+   1. fix-pack-base-6012,fix-pack-base-6110,fix-pack-base-6120
+   2. fix-pack-base-6130 ,fix-pack-base-6130-sp3, fix-pack-base-6130-sp4
+   3. fix-pack-base-6210, fix-pack-base-6210-sp7,fix-pack-base-6210-sp10, fix-pack-base-6210-sp13, fix-pack-base-6210-sp15
+   4. fix-pack-base-7010, fix-pack-de-1-7010, fix-pack-de-2-7010, fix-pack-de-3-7010, fix-pack-de-4-7010,  fix-pack-de-5-7010, fix-pack-de-6-7010, fix-pack-de-7-7010, fix-pack-de-8-7010, fix-pack-de-9-7010, fix-pack-de-10-7010, fix-pack-de-11-7010
 
 * #####  What can I download from the follow link ? #####
 -  patches,hotfixes,fix-pack,vmware,patching-tool,softwares.

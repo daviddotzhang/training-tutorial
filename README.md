@@ -5,16 +5,16 @@
 
 ### Chapter1: Conceptions ###
 
-##### What is the differences between LPS, LPE, LPP, LESA ? #####
+* ##### What is the differences between LPS, LPE, LPP, LESA ? #####
 Note: We started to use LPS (and in some cases other tickets) as the identifier for fixes so there's no 	need to create LPE tickets for DXP. The LPE tickets in the fixed   issues list are used for security (private / secure) tickets only.
 
-#####  What is the uses case of LPP task, L1 escalation, patch ? ######
+* #####  What is the uses case of LPP task, L1 escalation, patch ? ######
 * [ ] Task: not sure this is a bug.
 * [ ] Patch: normally it is a bug and need a fix
 * [ ] L1 escalation:
 
 
-#####  What are the follow repositories for ? #####
+* #####  What are the follow repositories for ? #####
 -  https://github.com/liferay/liferay-portal/
 -  https://github.com/liferay/liferay-plugins/
 -  https://github.com/liferay/liferay-portal-ee/

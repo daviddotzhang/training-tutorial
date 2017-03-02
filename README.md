@@ -9,9 +9,10 @@
 Note: We started to use LPS (and in some cases other tickets) as the identifier for fixes so there's no 	need to create LPE tickets for DXP. The LPE tickets in the fixed   issues list are used for security (private / secure) tickets only.
 
 #####  What is the uses case of LPP task, L1 escalation, patch ? ######
-- Task: not sure this is a bug.
-- Patch: normally it is a bug and need a fix
--  L1 escalation:
+* [ ] Task: not sure this is a bug.
+* [ ] Patch: normally it is a bug and need a fix
+* [ ] L1 escalation:
+
 
 #####  What are the follow repositories for ? #####
 -  https://github.com/liferay/liferay-portal/

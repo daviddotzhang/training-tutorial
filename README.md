@@ -15,32 +15,32 @@ Note: We started to use LPS (and in some cases other tickets) as the identifier 
 
 
 * #####  What are the follow repositories for ? #####
--  https://github.com/liferay/liferay-portal/
--  https://github.com/liferay/liferay-plugins/
--  https://github.com/liferay/liferay-portal-ee/
--  https://github.com/liferay/liferay-plugins-ee/
--  https://github.com/liferay/com-liferay-journal/
+1. https://github.com/liferay/liferay-portal/
+2. https://github.com/liferay/liferay-plugins/
+3. https://github.com/liferay/liferay-portal-ee/
+4. https://github.com/liferay/liferay-plugins-ee/
+5. https://github.com/liferay/com-liferay-journal/
 
-#####  What are the follow tags for ? #####
--  fix-pack-base-6012,fix-pack-base-6110,fix-pack-base-6120
--  fix-pack-base-6130 ,fix-pack-base-6130-sp3, fix-pack-base-6130-sp4
--  fix-pack-base-6210, fix-pack-base-6210-sp7,fix-pack-base-6210-sp10, fix-pack-base-6210-sp13, fix-pack-base-6210-sp15
--  fix-pack-base-7010, fix-pack-de-1-7010, fix-pack-de-2-7010, fix-pack-de-3-7010, fix-pack-de-4-7010,  fix-pack-de-5-7010, fix-pack-de-6-7010, fix-pack-de-7-7010, fix-pack-de-8-7010, fix-pack-de-9-7010, fix-pack-de-10-7010, fix-pack-de-11-7010
+* #####  What are the follow tags for ? #####
+1. fix-pack-base-6012,fix-pack-base-6110,fix-pack-base-6120
+2. fix-pack-base-6130 ,fix-pack-base-6130-sp3, fix-pack-base-6130-sp4
+3. fix-pack-base-6210, fix-pack-base-6210-sp7,fix-pack-base-6210-sp10, fix-pack-base-6210-sp13, fix-pack-base-6210-sp15
+4. fix-pack-base-7010, fix-pack-de-1-7010, fix-pack-de-2-7010, fix-pack-de-3-7010, fix-pack-de-4-7010,  fix-pack-de-5-7010, fix-pack-de-6-7010, fix-pack-de-7-7010, fix-pack-de-8-7010, fix-pack-de-9-7010, fix-pack-de-10-7010, fix-pack-de-11-7010
 
-#####  What can I download from the follow link ? #####
+* #####  What can I download from the follow link ? #####
 -  patches,hotfixes,fix-pack,vmware,patching-tool,softwares.
 -  http://mirrors.dlc.liferay.com/files.liferay.com/
 -  https://web.liferay.com/group/customer/dxp/
 -  https://web.liferay.com/group/customer/products/portal/6.2/
 
-#####  How to create a plugin fix snapshot ? #####
+* #####  How to create a plugin fix snapshot ? #####
 -  This one is a little longer, you can ask me for help if necessary.
 -  https://grow.liferay.com/excellence/-/wiki/Grow/Support+Marketplace+App+Release+SOP#section-Sup port+Marketplace+App+Release+SOP-Purpose+of+this+page
 
-#####  How to backport a fix ? #####
+* #####  How to backport a fix ? #####
 -  https://grow.liferay.com/documents/portlet_file_entry/20147/Backport%20guidelines%20-%20Basics.pdf/bd44fba5-437f-fde2-34e5-98e37128450e?status=0&download=true
 
-#####  where can I get help - SME request ? #####
+* #####  where can I get help - SME request ? #####
 -  https://grow.liferay.com/people/Using+Jira+to+interact+with+the+SME+System/"
 
 ### Chapter2: What should I do if I get a new LPP ticket ? ###

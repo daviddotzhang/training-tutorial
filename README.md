@@ -177,6 +177,6 @@ Note: We started to use LPS (and in some cases other tickets) as the identifier 
 
 * How to create a hotfix on Patch Portal.
 
-1. https://patcher.liferay.com/group/guest/patching
-2. For DXP, the use LPS to create the hotfix, see example LPS-70751
-3. For EE62, the use LPS to create the hotfix, see example LPE-14727
+   1. https://patcher.liferay.com/group/guest/patching
+   2. For DXP, the use LPS to create the hotfix, see example LPS-70751
+   3. For EE62, the use LPS to create the hotfix, see example LPE-14727

@@ -28,13 +28,13 @@ Note: We started to use LPS (and in some cases other tickets) as the identifier 
    4. fix-pack-base-7010, fix-pack-de-1-7010, fix-pack-de-2-7010, fix-pack-de-3-7010, fix-pack-de-4-7010,  fix-pack-de-5-7010, fix-pack-de-6-7010, fix-pack-de-7-7010, fix-pack-de-8-7010, fix-pack-de-9-7010, fix-pack-de-10-7010, fix-pack-de-11-7010
 
 * #####  What can I download from the follow link ? #####
--  patches,hotfixes,fix-pack,vmware,patching-tool,softwares.
--  http://mirrors.dlc.liferay.com/files.liferay.com/
--  https://web.liferay.com/group/customer/dxp/
--  https://web.liferay.com/group/customer/products/portal/6.2/
+   1. patches,hotfixes,fix-pack,vmware,patching-tool,softwares.
+   2. http://mirrors.dlc.liferay.com/files.liferay.com/
+   3. https://web.liferay.com/group/customer/dxp/
+   4. https://web.liferay.com/group/customer/products/portal/6.2/
 
 * #####  How to create a plugin fix snapshot ? #####
--  This one is a little longer, you can ask me for help if necessary.
+This one is a little longer, you can ask me for help if necessary.
 -  https://grow.liferay.com/excellence/-/wiki/Grow/Support+Marketplace+App+Release+SOP#section-Sup port+Marketplace+App+Release+SOP-Purpose+of+this+page
 
 * #####  How to backport a fix ? #####
@@ -159,3 +159,23 @@ Note: We started to use LPS (and in some cases other tickets) as the identifier 
 - https://patcher.liferay.com/group/guest/patching
 - For DXP, the use LPS to create the hotfix, see example LPS-70751
 - For EE62, the use LPS to create the hotfix, see example LPE-14727
+
+
+
+###Chapter3: How to create a hotfix to the customer ?
+* First of all, you need to check with the from Patch Portal.
+
+1. 继续排版一下；
+2. 测试吧；
+3. 在修改一下试试；
+4. 第3次提交修改，测试git提交方式；
+
+* How to create a branch based on existing tags.
+
+1. 继续排版一下；
+2. 测试吧；
+
+* How to create a hotfix on Patch Portal.
+
+1. 继续排版一下；
+2. 测试吧；

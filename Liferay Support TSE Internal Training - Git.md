@@ -78,6 +78,9 @@ git cherry-pick and git merge.
 
 ######  Part4：
 1: 如何美化 git log 提交信息
-2: 如何查询提交信息中含有 "hello" 的 commit	
+
+2: 如何查询提交信息中含有 "hello" 的 commit
+
 3: 如何查询一段代码的提交信息
+
 4: 如何查询一个关键字的提交信息

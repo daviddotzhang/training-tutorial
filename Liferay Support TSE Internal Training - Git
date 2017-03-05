@@ -13,11 +13,15 @@ this artcile is to help our new TSE to have a whole idea how liferay uses git to
 * How To Install Git
   https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-* How to fork and clone Liferay-Portal resource.
+* How to fork Liferay-Portal resource.
   https://github.com/liferay/liferay-portal
 
 #####  Basis
-Note: We started to use LPS (and in some cases other tickets) as the identifier for fixes so there's no 	need to create LPE tickets for DXP. The LPE tickets in the fixed   issues list are used for security (private / secure) tickets only.
+* where to clone/download the source ?
+  git clone https://github.com/daviddotzhang/liferay-portal.git
+* Update to latest is a necessary before doing any thing.
+  git pull --rebase upstream master
+  
 
 #####  Adavance
 * How to make the  best use if git rebase - i

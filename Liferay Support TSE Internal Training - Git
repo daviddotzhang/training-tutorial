@@ -1,0 +1,26 @@
+## Liferay Support TSE Internal Training - Git ##
+* author: david zhang
+* date:   2017-3-5
+* version: 1.0
+
+### Purpose ###
+this artcile is to help our new TSE to have a whole idea how liferay uses git to manage the code. it will start from git basis to advance.
+
+
+
+
+######Prepration
+* How To Install Git
+  https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+* How to fork and clone Liferay-Portal resource.
+  https://github.com/liferay/liferay-portal
+
+#####  Basis
+Note: We started to use LPS (and in some cases other tickets) as the identifier for fixes so there's no 	need to create LPE tickets for DXP. The LPE tickets in the fixed   issues list are used for security (private / secure) tickets only.
+
+#####  Adavance
+* How to make the  best use if git rebase - i
+* How to make the best 
+* Patch: normally it is a bug and need a fix
+* L1 escalation:

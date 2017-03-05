@@ -19,60 +19,60 @@ this artcile is to help our new TSE to have a whole idea how liferay uses git to
 ######  Part1：
 
 1: 如何克隆远端code
-* git clone https://github.com/daviddotzhang/liferay-docs.git
+  * git clone https://github.com/daviddotzhang/liferay-docs.git
 
 2: 如何查询在哪个分支.
-git branch
+  * git branch
 
 3: 如何查询是否最新. s it is user remote, it might behind liferay remote.
-git status
+  * git status
 
 4: 如何获取最新
-git pull --rebase upstream master
+  * git pull --rebase upstream master
 
 5: 如何创建一个新的分支3
-git checkout -b LPS-XZY master
+  * git checkout -b LPS-XZY master
 
 6: 如何添加一个文件.
-touch a.txt touch b.txt.
+  * touch a.txt touch b.txt.
 
 7: 如何加入文件 <-> 如何取消文件
-git add a.txt b.txt
-git reset a.txt b.txt
+  * git add a.txt b.txt
+  * git reset a.txt b.txt
 
 8: 如何放弃添加的文件
-git stash
+  * git stash
 
 9: 如何提交文件 <-> 如何取消提交的commit.
-git commit -m "a b txt".
+  * git commit -m "a b txt".
 
 10: 如何查看提交信息.
-  a:引入工具 gitk
-  b:引入工具 tig
-  c:使用git log
+  *  a:引入工具 gitk
+  *  b:引入工具 tig
+  *  c:使用git log
 
 11: 如何修改提交信息
-  a:git reset HEAD^1
-  b:git rebase -i
+  *  a:git reset HEAD^1
+  *  b:git rebase -i
 
 ######  Part2
 
 1: 如何推送到USER远端
-git push -f orgin LPS-XZY.
+  * git push -f orgin LPS-XZY.
 
 2: 如何提交到Liferay远端.
-  a:提交给工程师1 -> review -> 提交给工程师2 review
-  b:BC merge into liferay-portal.
+  * a:提交给工程师1 -> review -> 提交给工程师2 review
+  * b:BC merge into liferay-portal.
 	
 3: 如何使用工具，直接提交
-git-pull-request
+  * git-pull-request
 
 ######  Part3：
 1: 如何拽取别人的提交信息
-git fetch upstream LPS-ABC.
+  * git fetch upstream LPS-ABC.
 
 2: 如何把别人的信息获取到自己的branch
-git cherry-pick and git merge.
+  * git cherry-pick and git merge.
 
 3: git cherry-pick and git merge区别
 

@@ -18,13 +18,13 @@ this artcile is to help our new TSE to have a whole idea how liferay uses git to
 
 ######  Part1：
 
-1: 如何克隆远端code
+1: how to fork and clone a remote repository ?
   * git clone https://github.com/daviddotzhang/liferay-docs.git
 
-2: 如何查询在哪个分支.
+2: how to check which branch is in ?
   * git branch
 
-3: 如何查询是否最新. s it is user remote, it might behind liferay remote.
+3: how to check the code is latest ? as it is user remote, it might behind liferay remote.
   * git status
 
 4: 如何获取最新

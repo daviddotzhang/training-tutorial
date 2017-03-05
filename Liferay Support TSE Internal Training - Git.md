@@ -16,7 +16,7 @@ this artcile is to help our new TSE to have a whole idea how liferay uses git to
 * How to fork and clone Liferay-Portal resource.
   https://github.com/liferay/liferay-portal
 
-#####  Part1：
+######  Part1：
 
 1: 如何克隆远端code
 git clone https://github.com/liferay/liferay-portal.git
@@ -55,7 +55,7 @@ git commit -m "a b txt".
   a:git reset HEAD^1
   b:git rebase -i
 
-#####  Part2
+######  Part2
 
 1: 如何推送到USER远端
 git push -f orgin LPS-XZY.
@@ -67,7 +67,7 @@ git push -f orgin LPS-XZY.
 3: 如何使用工具，直接提交
 git-pull-request
 
-#####  Part3：
+######  Part3：
 1: 如何拽取别人的提交信息
 git fetch upstream LPS-ABC.
 
@@ -76,7 +76,7 @@ git cherry-pick and git merge.
 
 3: git cherry-pick and git merge区别
 
-#####  Part1：
+######  Part4：
 1: 如何美化 git log 提交信息
 2: 如何查询提交信息中含有 "hello" 的 commit	
 3: 如何查询一段代码的提交信息

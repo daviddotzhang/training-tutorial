@@ -21,11 +21,11 @@ this artcile is to help our new TSE to have a whole idea how liferay uses git to
 1: 如何克隆远端code
 git clone https://github.com/daviddotzhang/liferay-docs.git
 
-2: 如何查询是否最新.
-git status
-
-3: 如何查询在哪个分支修改.
+2: 如何查询在哪个分支.
 git branch
+
+3: 如何查询是否最新. s it is user remote, it might behind liferay remote.
+git status
 
 4: 如何获取最新
 git pull --rebase upstream master

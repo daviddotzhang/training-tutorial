@@ -19,7 +19,7 @@ this artcile is to help our new TSE to have a whole idea how liferay uses git to
 ######  Part1：
 
 1: 如何克隆远端code
-git clone https://github.com/daviddotzhang/liferay-docs.git
+* git clone https://github.com/daviddotzhang/liferay-docs.git
 
 2: 如何查询在哪个分支.
 git branch

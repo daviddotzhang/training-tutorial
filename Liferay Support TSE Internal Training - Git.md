@@ -57,30 +57,30 @@ this artcile is to help our new TSE to have a whole idea how liferay uses git to
 
 ######  Part2
 
-1: 如何推送到USER远端
+1: how to push user commits to user remote ?
   * git push -f orgin LPS-XZY.
 
-2: 如何提交到Liferay远端.
-  * a:提交给工程师1 -> review -> 提交给工程师2 review
-  * b:BC merge into liferay-portal.
+2: how commits are merged into liferay portal ?
+  * a: engineer 1 -> engineer 2 -> engineer 3 review
+  * b: BC merge into liferay-portal.
 	
-3: 如何使用工具，直接提交
+3: how to use tool to send pull request?
   * git-pull-request
 
 ######  Part3：
-1: 如何拽取别人的提交信息
+1:  how to cherry fetch others' branch ?
   * git fetch upstream LPS-ABC.
 
-2: 如何把别人的信息获取到自己的branch
+2: how to cherry pick others commits ?
   * git cherry-pick and git merge.
 
-3: git cherry-pick and git merge区别
+3:  what are the differences between git cherry-pick and merge ?
 
 ######  Part4：
-1: 如何美化 git log 提交信息
+1:  how to beaufity git log messages ?
 
-2: 如何查询提交信息中含有 "hello" 的 commit
+2: how to query commits containing word "hello" ?
 
-3: 如何查询一段代码的提交信息
+3: how to check the commit messages of a special line ?
 
-4: 如何查询一个关键字的提交信息
+4: how to check the commit messages of a special code ?

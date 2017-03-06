@@ -27,32 +27,32 @@ this artcile is to help our new TSE to have a whole idea how liferay uses git to
 3: how to check the code is latest ? as it is user remote, it might behind liferay remote.
   * git status
 
-4: 如何获取最新
+4: how to update the latest ?
   * git pull --rebase upstream master
 
-5: 如何创建一个新的分支3
+5: how to create a new branch ?
   * git checkout -b LPS-XZY master
 
-6: 如何添加一个文件.
+6: how to add a file <-> how to cancel it ?
   * touch a.txt touch b.txt.
-
-7: 如何加入文件 <-> 如何取消文件
   * git add a.txt b.txt
   * git reset a.txt b.txt
 
-8: 如何放弃添加的文件
+7: how to stash the files ?
   * git stash
 
-9: 如何提交文件 <-> 如何取消提交的commit.
+8: how to commit a file <-> how to cancel it?
   * git commit -m "a b txt".
 
-10: 如何查看提交信息.
-  *  a:引入工具 gitk
-  *  b:引入工具 tig
-  *  c:使用git log
+9: how to check the commit messages?
+  *  a:using tool: gitk
+  *  b:using tool: tig
+  *  c:using command: log
 
-11: 如何修改提交信息
+10: how to cancel commits ?
   *  a:git reset HEAD^1
+ 
+11: how to rebase commits ?
   *  b:git rebase -i
 
 ######  Part2
